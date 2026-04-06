@@ -71,6 +71,6 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/achyutam-gupta/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
