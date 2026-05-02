@@ -103,14 +103,19 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/achyutam-gupta/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+## 🌐 Connect With Me
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
+
+  <a href="https://www.linkedin.com/in/achyutam-gupta/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
+
   <a href="https://medium.com/@gupta.achyutam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="48" width="48" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="48" />
   </a>
-</p>
+
+</div>
 
 ---
 
