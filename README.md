@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi, I'm Your Achyutam G  Specialist -Techno Functional Tester · | AI-Augmented Test Automation </h1>
+<h1 align="center">⚡ Hi, I'm Your Achyutam G  QA Specialist · | AI-Augmented Test Automation </h1>
 <h3 align="center">🧠 QA Automation Engineer | AI Agents Builder | Performance Tester</h3>
 
 <p align="center">
