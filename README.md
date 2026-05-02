@@ -107,8 +107,8 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
   <a href="https://www.linkedin.com/in/achyutam-gupta/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@gupta.achyutam">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://medium.com/@gupta.achyutam" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="48" width="48" />
   </a>
 </p>
 
