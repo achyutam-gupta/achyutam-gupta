@@ -101,7 +101,6 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
 
 ---
 
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
