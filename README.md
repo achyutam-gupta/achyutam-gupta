@@ -1,9 +1,17 @@
+<!-- 🔷 HEADER WAVE (TECH THEME) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=160&section=header"/>
+</p>
+
 <h1 align="center">⚡ Achyutam Gupta</h1>
 <h3 align="center">Quality Engineering Leader | AI-Augmented Testing | Scalable Test Architecture</h3>
 
+<!-- 🔷 TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=750&lines=Engineering+Quality+at+Scale;AI-Augmented+Test+Systems;Automation+Architecture+%7C+Performance+Engineering;Driving+Confidence+in+Every+Release" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -21,6 +29,8 @@ I operate beyond traditional QA boundaries—working at the intersection of **en
 
 I believe quality is not about increasing test count—  
 it’s about **maximizing confidence with minimal, meaningful tests**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -40,6 +50,8 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
   <img src="https://img.shields.io/badge/AI%20Agents-Intelligent%20Testing-FF6F00?style=for-the-badge"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ---
 
 ## 🚀 What I Drive
@@ -50,38 +62,42 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
 - 🔁 **Continuous Quality Feedback Systems** for faster releases  
 - 📊 **Test Optimization Strategies** focused on value, not volume  
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ---
 
 ## 🧪 Featured Work
 
 ### 🤖 AI-Augmented Test Automation Framework
-- Designed intelligent test generation using AI
-- Focused on **edge-case discovery over traditional coverage**
-- Reduced dependency on manual test design
-- Integrated with automation pipelines for continuous validation
+- Designed intelligent test generation using AI  
+- Focused on **edge-case discovery over traditional coverage**  
+- Reduced dependency on manual test design  
+- Integrated with automation pipelines for continuous validation  
 
 ---
 
 ### ⚡ Performance Engineering Framework
-- Built scalable **JMeter-based performance ecosystem**
-- Designed for **real-world traffic simulation**
-- CI/CD integrated for continuous performance feedback
-- Enabled early bottleneck detection and system tuning
+- Built scalable **JMeter-based performance ecosystem**  
+- Designed for **real-world traffic simulation**  
+- CI/CD integrated for continuous performance feedback  
+- Enabled early bottleneck detection and system tuning  
 
 ---
 
 ### 🧩 Scalable Automation Architecture (UI + API)
-- Hybrid framework using **Playwright + Selenium + Karate**
-- Designed for **low maintenance and high reliability**
-- Reduced flaky test scenarios through architectural improvements
-- Enabled faster execution cycles with consistent reporting
+- Hybrid framework using **Playwright + Selenium + Karate**  
+- Designed for **low maintenance and high reliability**  
+- Reduced flaky test scenarios through architectural improvements  
+- Enabled faster execution cycles with consistent reporting  
 
 ---
 
 ### 🔍 Test Strategy & Quality Optimization
-- Introduced **risk-based testing approaches**
-- Reduced unnecessary test cases while improving effectiveness
-- Improved overall **confidence in releases without increasing test volume**
+- Introduced **risk-based testing approaches**  
+- Reduced unnecessary test cases while improving effectiveness  
+- Improved overall **confidence in releases without increasing test volume**  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -92,32 +108,43 @@ it’s about **maximizing confidence with minimal, meaningful tests**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- 🔷 ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ---
 
 ## 🏆 Achievements
 
-- ⭐ Star Performer for **3 consecutive quarters**
-- 🏅 Awarded **Brand Value Award** for engineering impact
+- ⭐ Star Performer for **3 consecutive quarters**  
+- 🏅 Awarded **Brand Value Award** for engineering impact  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
-
 ## 🌐 Connect With Me
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
-
-  <a href="https://www.linkedin.com/in/achyutam-gupta/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/achyutam-gupta/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-
-  <a href="https://medium.com/@gupta.achyutam" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@gupta.achyutam">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="48" />
   </a>
-
-</div>
+</p>
 
 ---
 
 <p align="center">
   ⚡ <b>Engineering quality systems that scale with speed and confidence.</b>
+</p>
+
+<!-- 🔷 FOOTER WAVE (TECH THEME) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=130&section=footer"/>
 </p>
